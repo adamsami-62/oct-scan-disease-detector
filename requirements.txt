@@ -1,0 +1,9 @@
+# All of these come preinstalled on Google Colab; listed for reference / local runs.
+torch
+torchvision
+scikit-learn
+scikit-image
+numpy
+matplotlib
+pillow
+tqdm
